@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Eswatini Smart School",
+  "short_name": "Eswatini Smart School",
+  "version": "za.umsitiwami.eswatinismartschool",
+  "description": "Boost Education with Technology",
+  "author": "Eswatini Smart School Team",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}

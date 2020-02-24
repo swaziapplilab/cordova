@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="za.umsitiwami.eswatinismartschool" version="1.0.0" xmlns="http://www.eswatinismartschool.co.za" xmlns:cdv="http://www.eswatinismartschool.co.za">
+    <name>Eswatini Smart School</name>
+    <description>
+        Boost Education with Technology
+    </description>
+    <author email="swaziapplilab@gmail.com" href="http://www.swaziapplilab.com">
+        Eswatini Smart School Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <icon src="logo.png" />
+    <preference name="FullScreen" value="true" />
+    <preference name="android-targetSdkVersion" value="28" />
+</widget>
